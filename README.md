@@ -1,3 +1,6 @@
+<img width="2400" height="1410" alt="image" src="https://github.com/user-attachments/assets/9a39ec72-7de0-40ac-8ab1-473c73be262e" />
+
+
 # M365 Offboarding Automation
 
 Offboards a Microsoft 365 user end to end when an agent ticks one checkbox on a Zendesk ticket.
